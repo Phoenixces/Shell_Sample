@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #This is  Bash script
 
@@ -45,3 +44,5 @@ echo "$string1 $string2"
 string3="$string1 $string2"
 string3+=" is a Awesome operating system"
 echo $string3
+#Adding one comment to check out my own branch access in github using git
+
